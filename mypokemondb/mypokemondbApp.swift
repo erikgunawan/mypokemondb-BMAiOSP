@@ -1,17 +1,16 @@
 //
-//  mypokemondbApp.swift
-//  mypokemondb
+//  MyPokemonDBApp.swift
+//  My PokemonDB
 //
 //  Created by Erik Gunawan on 03/04/26.
 //
-
 import SwiftUI
 
 @main
-struct mypokemondbApp: App {
+struct MyPokemonDBApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
         }
     }
 }
