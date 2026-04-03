@@ -1,5 +1,5 @@
 //
-//  HomeView.swift
+//  PokedexView.swift
 //  My PokemonDB
 //
 //  Created by Erik Gunawan on 03/04/26.
